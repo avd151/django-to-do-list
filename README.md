@@ -11,5 +11,6 @@ It allows users to
 * Front-End :  HTML, CSS<br>
 * Back-End : Python Django<br>
 
-<br>
-<br>
+## Screenshots ##
+
+
