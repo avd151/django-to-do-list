@@ -1,4 +1,4 @@
-# Django To Do List Application
+# Django To Do List Application #
 
 It allows users to 
 * Create Tasks<br>
@@ -6,10 +6,7 @@ It allows users to
 * Mark Tasks as Completed by Strikking Off<br>
 * Delete Tasks<br>
 
-<br>
-<br>
-
-# Technologies Used : 
+## Technologies Used : ##
 
 * Front-End :  HTML, CSS<br>
 * Back-End : Python Django<br>
