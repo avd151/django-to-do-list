@@ -14,7 +14,7 @@ It allows users to
 ## Screenshots : ##
 
 ![Home Page](img/to-do.png) <br>
-![Update Task Page](img/update.png0) <br>
+![Update Task Page](img/update.png) <br>
 ![Delete Task Page](img/delete.png)<br>
 
 
