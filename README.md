@@ -13,9 +13,9 @@ It allows users to
 
 ## Screenshots : ##
 
-![](img/to-do.png) <br>
-![](img/update.png) <br>
-![](img/delete.png)<br>
+![Home Page](img/to-do.png/600x600) <br>
+![Update Task Page](img/update.png/600x600) <br>
+![Delete Task Page](img/delete.png/600x600)<br>
 
 
 
