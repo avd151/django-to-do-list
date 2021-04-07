@@ -11,6 +11,8 @@ It allows users to
 * Front-End :  HTML, CSS<br>
 * Back-End : Python Django<br>
 
-## Screenshots ##
+## Screenshots : ##
+
+![](img/to-do.png)
 
 
