@@ -13,6 +13,9 @@ It allows users to
 
 ## Screenshots : ##
 
-![](img/to-do.png)
+![](img/to-do.png) <br>
+![](img/update.png) <br>
+![](img/delete.png)<br>
+
 
 
