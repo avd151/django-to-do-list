@@ -1,12 +1,18 @@
-# Django To Do List Web Application
+# Django To Do List Application
 
 It allows users to 
-Create Tasks
-Update Tasks, Mark them as Completed
-Delete Tasks
+* Create Tasks<br>
+* Update Tasks<br>
+* Mark Tasks as Completed by Strikking Off<br>
+* Delete Tasks<br>
 
+<br>
+<br>
 
 # Technologies Used : 
 
-Front-End :  HTML, CSS
-Back-End : Python Django
+* Front-End :  HTML, CSS<br>
+* Back-End : Python Django<br>
+
+<br>
+<br>
