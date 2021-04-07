@@ -3,7 +3,7 @@
 It allows users to 
 * Create Tasks<br>
 * Update Tasks<br>
-* Mark Tasks as Completed by Strikking Off<br>
+* Mark Tasks as Completed<br>
 * Delete Tasks<br>
 
 ## Technologies Used : ##
